@@ -1,6 +1,5 @@
 # GROUP1_ADY_PROJECT
-This is our first Data Science Project at FPT University Da Nang Campus.
-A MACHINE LEARNING MODEL TO PREDICT VIETNAM'S GDP
+This is our first Data Science Project (A MACHINE LEARNING MODEL TO PREDICT VIETNAM'S GDP) at FPT University Da Nang Campus.
 Our group consists of 6 members:
 1. Le Nhat Trinh
 2. Nguyen Duc Minh
@@ -8,3 +7,4 @@ Our group consists of 6 members:
 4. Nguyen Tri Nhan
 5. Nguyen Ho Nhat Huy
 6. Hoang Trung Quan
+   
